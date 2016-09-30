@@ -1,0 +1,2 @@
+# stonesgit
+MyRepository
